@@ -18,5 +18,4 @@ Welcome to the world of asynchronous JavaScript! This repository is your go-to r
 ## 🛠️ Technologies Used
 
 - JavaScript
-- Node.js (if applicable)
-- Any additional libraries or frameworks used for demonstration purposes
+- Node.js 
